@@ -21,7 +21,7 @@ To run this application, you will need to have:
 1. Clone this repository with the command:
 
     ```bash
-    git clone https://github.com/0xrsydn/cover-letter-gen.git
+    git clone https://github.com/DiasIshbulatov10/llm-gen-cover-letter.git
     ```
 
 2. Install the required libraries with the command:
